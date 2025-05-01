@@ -20,8 +20,8 @@ The dataset used for training the model includes data from the internet and inte
 ## Installation
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/SanjidHossain/Traffic-Managment-System-YOLO-approach.git
-cd Traffic-Managment-System-YOLO-approach
+git clone .githttps://github.com/RahulPatil-96/Traffic-Management.git
+cd Traffic-Managment
 ```
 
 Install the required packages:
